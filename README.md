@@ -1,5 +1,12 @@
 # React + TypeScript + Vite
 
+# React + TypeScript + Vite
+
+**Backend Repository:** [GitHub Backend Link](https://github.com/HPkavinduThareen/luxewear-backend.git)
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
