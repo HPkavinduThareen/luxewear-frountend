@@ -1,4 +1,4 @@
-import productsData from '../../data/products.json'
+import  productsData from '../../data/products.json'
 import {useState} from "react";
 import ProductCards from "../shop/ProductCards.jsx";
 export const Search = () => {
